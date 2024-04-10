@@ -1,0 +1,24 @@
+/* *{
+    background-color: burlywood;
+    color: white;
+} */
+
+.new {
+    background-image: url('./footer2.jpg');
+
+}
+
+nav{
+    background-image: url('./footer5.jpg');
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    
+    background-image: url('./green.jpg');
+    background-size: cover;
+    width: 100%;
+    justify-content: center;
+}
